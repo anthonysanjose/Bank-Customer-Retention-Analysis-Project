@@ -1,4 +1,4 @@
-# Bank-Customer-Retention-Analysis-
+# Bank-Customer-Retention-Analysis
 Python &amp; SQL - Bank Customer Retention Analysis 
 
 This bank wants to analyze customer retention.
